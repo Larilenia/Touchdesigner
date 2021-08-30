@@ -1,0 +1,11 @@
+Watercolour
+
+
+
+Ho importato una immagine, a cui ho collegato un noise che a sua volta è stato collegato ad un feedback e displace. Tramite il top composite, ho potuto regolare l'ampiezza dell'effetto sulla foto.
+
+L'obiettivo è quello di distorcere la foto.
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=9ynL-JckDkY

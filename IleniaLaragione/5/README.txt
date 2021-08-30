@@ -1,0 +1,1 @@
+5-Sperimentazione visual, cubo con motivo interno astratto.

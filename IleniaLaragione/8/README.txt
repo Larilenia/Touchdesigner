@@ -1,0 +1,1 @@
+8- Sperimentazione visual, riproduzione di stelle che fluttuano.

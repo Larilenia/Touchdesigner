@@ -1,0 +1,1 @@
+6- Sperimentazione libera di effetti visual con particelle generate dal suono.

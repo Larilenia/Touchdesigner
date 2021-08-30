@@ -1,0 +1,1 @@
+2-Sperimentazione visual, frattali da comando noise.

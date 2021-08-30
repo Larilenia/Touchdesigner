@@ -1,1 +1,0 @@
-10-Sperimentazione visual, attraverso studio del comando Nvidia flow emitter.

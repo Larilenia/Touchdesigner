@@ -1,1 +1,0 @@
-7-Sperimentazione visual, immagine distorta attraverso ciclo feedback da comandi noise.

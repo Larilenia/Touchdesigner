@@ -1,1 +1,0 @@
-22- Sperimentazione del noise 2.

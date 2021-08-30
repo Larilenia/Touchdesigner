@@ -1,0 +1,5 @@
+Liquid_fx
+
+Ho utilizzato un noise, associato a feedback e displace. Displace al quale ho combinato un noise che crea l'effetto "esplosione".
+
+L'obiettivo è quello di indagare le possibilità del noise.

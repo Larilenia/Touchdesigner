@@ -1,0 +1,6 @@
+Cerchio_interattivo_immersivo
+
+Ho creato un ramp circolare, collegato a displace ed edge per creare i contorni lineari. Ho combinato con altri ramp per creare un risultato più interessante. Il movimento è dato dall’espressione absTime.seconds assegnata al parametro fase del top ramp. 
+
+
+Ho indagato le possibilità dell'operatore ramp. 

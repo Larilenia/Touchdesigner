@@ -1,0 +1,7 @@
+Laser_reactive
+
+
+Ho creato il network audio. L'ho collegato al parametro period di un ramp, che ho poi collegato ad un edge. Ho esasperato i parametri di luminosità e gamma con level.
+
+
+L'obiettivo è quello di simulare un tipico laser verde, classico nei concerti di musica techno.

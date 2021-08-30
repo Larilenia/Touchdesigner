@@ -1,0 +1,12 @@
+figure_reactive
+
+
+Ho creato il network audio importando un file, che ho poi collegato ad envelope per massimizzare l’ampiezza del campione in ingresso, e resample, per gestire la frequenza di campionamento. 
+Ho creato una griglia con grid,  renderizzata e a cui ho assegnato il mat line. Hgestito le opzioni di display, e utilizzato noise, a cui ho collegato l'audio, per incrementare gli elementi di grid in maniera reattiva. 
+
+
+Il risultato indaga il comportamento delle forme come fossero superfici sensibili.
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=BZR1f2YqFVs

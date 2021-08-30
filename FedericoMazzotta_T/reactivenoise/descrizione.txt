@@ -1,0 +1,7 @@
+Reactive_noise
+
+
+Dopo aver creato il network per l'audio, ho creato un noise, associato a Feedback, displace ed edge.
+
+L'obiettivo è quello di creare una texture organica che risponda agli impulsi audio.
+

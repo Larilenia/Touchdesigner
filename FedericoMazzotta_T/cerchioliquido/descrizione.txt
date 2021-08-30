@@ -1,0 +1,9 @@
+Cerchio_liquido
+
+
+Ho usato gli operatori noise, edge, displace per creare l’effetto liquido. Ho poi creato un cerchio in cui inserire, attraverso un composite, il risultato di questi ultimi.
+Ho infine aggiunto uno sfondo, constant, bianco.
+
+
+
+

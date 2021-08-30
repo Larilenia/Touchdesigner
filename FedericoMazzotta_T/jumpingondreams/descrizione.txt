@@ -1,0 +1,8 @@
+Jumping_on_dreams
+
+
+Ho creato un cerchio, collegato ad un feedback, di cui ho gestito l'opacità di ogni step con level.
+Ho creato uno sfondo combinato con un noise. Il movimento è dato da un lfo, collegato ai parametri direzionali del cerchio.
+
+
+L'obiettivo è quello di capire il comportamento dell'op. Top Feedback, e il risultato è un vermicello che salta in una realtà onirica.

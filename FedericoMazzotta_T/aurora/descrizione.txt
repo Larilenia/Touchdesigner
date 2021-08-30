@@ -1,0 +1,12 @@
+Aurora 
+
+
+Ho creato il network per l’audio, importando un file audio, che ho poi collegato ad envelope per massimizzare l’ampiezza del campione in ingresso, e resample, per gestire la frequenza di campionamento. Ho creato un cerchio, collegato a particles, renderizzato e assegnato a feedback. Le frequenze  audio sono state suddivise per creare delle istanze, che hanno permesso il movimento.
+
+Il risultato finale ricorda dei raggi che sembrano provenire da una aurora boreale, ma allo stesso tempo, potrebbe sembrare una superficie liquida sulla quale si formano delle macchie.
+
+
+
+Video tutorial di riferimento
+
+https://www.youtube.com/watch?v=NJE48IVzNVc&t=247s

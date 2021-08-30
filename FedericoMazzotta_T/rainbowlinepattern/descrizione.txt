@@ -1,0 +1,8 @@
+Rainbow_line_pattern
+
+
+Ho creato una costante (chop) a cui ho assegnato due valori che ho collegato a due noise (top) che hanno reso il pattern generato bidimensionale e squadrato; un effetto quadratini, a cui ho poi collegato un displace e un edge, esasperando la struttura lineare. Ho collegato un ramp per colorare il pattern.
+
+
+Il risultato indaga le possibilità del noise.
+

@@ -1,0 +1,10 @@
+Oil_spill
+
+Ho creato un noise, associato a Feedback, displace ed edge.
+
+L'obiettivo è quello di creare un effetto non più "liquido" ma più organico.
+
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=8AUVcYuCdcs

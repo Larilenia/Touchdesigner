@@ -1,0 +1,12 @@
+acid_liquid
+
+Ho usato gli operatori noise, edge, displace per creare l’effetto liquido. Con level ho incrementato la luminosità all’estremo, per dare l’effetto acido. Ho usato un ramp per dare colore all’effetto ricavato. Ho infine aggiunto uno sfondo, constant, per creare contrasto.
+
+Il risultato finale potrebbe ricordare un liquido radioattivo o addirittura alieno.
+
+
+
+
+Video tutorial di riferimento:
+
+https://www.youtube.com/watch?v=83K3QEK6Iv0

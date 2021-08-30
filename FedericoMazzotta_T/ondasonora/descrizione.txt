@@ -1,0 +1,9 @@
+Onda_sonora
+
+Ho creato il network per l’audio, importando un file audio, che ho poi collegato ad un audiospectrum e math per stabilire il i range. La forma d’onda è stata rilevata da l’operatore chop to. Questo è stato collegato ad un noise a ad un ramp, che ha dato colore e lucentezza alle onde. Infine il displace, in cui il parametro extend è stato definito in mirros, ha creato l'effetto desiderato.
+
+
+
+Video tutorial di riferimento:
+
+https://www.youtube.com/watch?v=shj4473s96Y

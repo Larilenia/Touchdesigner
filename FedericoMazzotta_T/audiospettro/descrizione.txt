@@ -1,0 +1,9 @@
+Audio_spettro
+
+Ho creato il network per l’audio, importando un file audio, che ho poi collegato ad un audiospectrum e math per stabilire il i range. La forma d’onda è stata rilevata da l’operatore chop to.
+La figura è nata da una sfera modificata con twist, renderizzata tramite il comp geometry. Il movimento è dall’espressione absTime.seconds attribuita ai suoi parametri. 
+
+
+Video tutorial di riferimento:
+
+https://www.youtube.com/watch?v=jf718jbSoTU 

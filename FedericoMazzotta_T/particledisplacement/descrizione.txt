@@ -1,0 +1,12 @@
+Particle_displacement
+
+
+Ho creato una sfera, e collegata a particle, renderizzata e collegata al top feedback. 
+Ho creato un ramp per assegnare una colorazione che attraverso l'espressione absTime.seconds associata al parametro fase, genera il colore in tutte le parti del feedback.
+
+
+Il progetto è stato eseguito partendo dal tutorial di bileam tschepe, apportando alcune modifiche in specifici parametri, come il particles.
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=hbZjgHSCAPI&t=30s

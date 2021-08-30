@@ -1,0 +1,14 @@
+Monster
+
+
+
+Ho creato un noise, collegato ad un feedback. Creato una sfera, di cui ho modificato i parametri del raggio, portandoli a valori minimi, e renderizzata attribuendo le luci ambientali di un file esterno.
+Ho utilizzato un feedback collegato al render e assegnato un colore tramite ramp.
+
+
+Il risultato è una forma geometrica che somiglia ad una figura "mostruosa" o marina, che infatti sembra galleggi.
+
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=vUxdpKnUiWg

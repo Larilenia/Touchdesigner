@@ -1,0 +1,9 @@
+Text_effects_edit
+
+
+
+Ho creato una sfera, che ho collegato ad un noise, e renderizzato tramite geometry. Come materiale ho assegnato un phong, a cui ho applicato il testo da me scelto. La differenza in questo caso l'ha fatta l'aggiunta del SOP tube, e delle modifiche sul noise.
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=kosFgK7DdCo&t=133s

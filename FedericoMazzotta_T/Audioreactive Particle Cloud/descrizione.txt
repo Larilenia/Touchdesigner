@@ -1,0 +1,9 @@
+Audioreactive Particle Cloud
+
+Ho creato il network per l’audio importando un file, che ho poi collegato ad un evenlope per massimizzare l’ampiezza del campione in ingresso, e poi un resample, per gestire la frequenza di campionamento. Ho creato una sfera, che ho collegato all’operatore particles, che è stato renderizzato dal comp geometry. Il movimento reattivo è dato dal chop null collegato al parametro drag di geometry. 
+
+
+
+Video tutorial di riferimento:
+
+https://www.youtube.com/watch?v=M8X_FFB-ikQ&t=358s

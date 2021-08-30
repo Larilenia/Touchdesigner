@@ -1,0 +1,15 @@
+
+forme_audo_generative
+
+
+Ho importato un file audio, collegato ad analyze, e speed, per convertire la velocità in un valore numerico. Ho collegato l'audio ad un Noise dal quale ho ricavato r g b da attribuire ad un top to.
+Ho quindi convertito l'audio in entrata in un segnale visuale grazie al chop to, che ho renderizzato , e a cui ho poi collegato feedback e displace.
+
+
+Il risultato finale ricorda i Visual dei player musicali dei vecchi sistemi di Windows.
+
+
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=z4dc8H4ELzQ

@@ -1,0 +1,8 @@
+Desert_vortex
+
+
+Ho creato un noise, collegato un feedback e gestito il movimento. 
+
+L'intenzione è quella di creare un vortice che sembri polveroso.
+
+

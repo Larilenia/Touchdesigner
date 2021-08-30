@@ -1,0 +1,12 @@
+Sliced_text
+
+
+Ho creato un network per l'audio. Grazie ad un Chop to, ho ricavato l'onda, he ho collegato ad un transform e ad un displace. In text ho inserito le parole, che essendo multiple, ho gestito tramite il DAT table. 
+
+Il risultato è stato ispirato dalla stampa su una maglietta, che riportava il medesimo effetto, non reattivo ovviamente. Qui lo è stato reso.
+
+
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=DeCaJ5EwyIg

@@ -1,0 +1,8 @@
+Speed_universe
+
+
+Ho creato una sfera che ho collegato a particles. Ho renderizzato il tutto collegandolo a feedback e displace per rendere l'animazione più interessante.
+Ho agito con l'espressione absTime.seconds/1 sul parametro forces dell'op particles.
+
+
+Il risultato è quello di rappresentare un viaggio intergalattico alla velocità della luce.

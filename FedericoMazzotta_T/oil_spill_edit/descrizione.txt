@@ -1,0 +1,7 @@
+Oil_spill_edit
+
+
+Ho creato un noise, reso reattivo da un noise chop, collegato a feedback, displace e al top threshold. 
+
+Il risultato finale ricorda delle macchie che sembrano osservate al microscopio.
+

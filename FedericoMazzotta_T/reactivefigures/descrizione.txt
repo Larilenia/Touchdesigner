@@ -1,0 +1,9 @@
+Reactive_figures
+
+
+Ho creato una sfera, a cui ho poi collegato un noise, per far si che i suoi punti e vertici si muovessero. La sfera ha una struttura a griglia lineare, in quanto renderizzata con il MAT line.
+Il network audio è collegato ad un parametro del noise, così da rendere reattivi i movimenti.
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=BZR1f2YqFVs&t=19s

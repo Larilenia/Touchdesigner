@@ -1,0 +1,10 @@
+Particle_image_reveal
+
+Ho creato un cerchio (sop) collegandolo a particle. Ho renderizzato tutto tramite geometry, a cui ho assegnato il mat pointsprite, e render. Ho collegato a quest'ultimo un feedback, che è stato combinato con una foto. Il feedback viene richiamato da un chop, keyboard in.
+
+Lo scopo è quello di generare i tratti dell'immagine attraverso la formazione delle particelle.
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=RbBzdBTLOvg&t=1s
+

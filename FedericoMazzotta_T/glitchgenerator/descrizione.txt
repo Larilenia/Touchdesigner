@@ -1,0 +1,11 @@
+Glitch_generator
+
+
+Ho importato un filmato, collegato un feedback gestibile da un keyboard in e displace.
+Ho creato vari tipi di ramp, richiamati da uno switch, che creano i diversi tipi di effetto.
+
+L' intento è quello di indagare come questo tipo di disturbo agisce attraverso più soluzioni.
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=lXRWBT-QrJo

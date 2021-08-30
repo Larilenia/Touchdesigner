@@ -1,0 +1,5 @@
+Liqud_paint
+
+Ho creato un cerchio (top) che ho reso mobile attraverso dei noise (chop). Ho quindi collegato un feedback ed un displace. Ho utilizzato l'op. Blur per gestire la sfocatura. 
+
+L'obiettivo è quello di creare un Visual liquido, come se fossero più vernici messe insieme.

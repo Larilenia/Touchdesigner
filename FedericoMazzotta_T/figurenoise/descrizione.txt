@@ -1,0 +1,11 @@
+figure_noise
+
+
+Ho creato una sfera, collegata a noise, e renderizzata. Ho assegnato il MAT line, per creare la struttura. Ho utilizzato displace. Il movimento è dato dal noise.
+
+
+Il risultato è una indagine sul comportamento delle forme geometriche collegate agli operatori feedback e displace.
+
+
+Video tutorial di riferimento
+https://www.youtube.com/watch?v=BZR1f2YqFVs

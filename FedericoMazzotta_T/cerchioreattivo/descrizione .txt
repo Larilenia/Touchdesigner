@@ -1,0 +1,8 @@
+cerchio_reattivo
+
+
+Ho utilizzato Tdableton per collegare i software. All'interno del box, ho collegato gli input midi 
+Al noise che crea lo sfondo, e il kick al cerchio, al quale ho collegato un edge.
+
+
+Ho indagato le possibilità di comunicazione tra Ableton e TD. Nello specifico ho creato delle tracce midi che hanno reso reattivi più elementi del network.
